@@ -6,4 +6,4 @@ Repeater needs:
 3. 12V to 5V buck converter
 4. optional - "devicenet" nmea2000 5pin connectors
 
-at the OpenCPN side just create new connection, Serial, choose your paired bubox serial port
+at the OpenCPN side just create new connection, Serial, choose your paired bumbox serial port
