@@ -2,7 +2,7 @@
 
 Repeater needs: 
 1. ESP32 chip supporting Bluetooth Classic (BR/EDR)
-2. CAN bus transiever
+2. CAN bus transciever
 3. 12V to 5V buck converter
 4. optional - "devicenet" nmea2000 5pin connectors
 
